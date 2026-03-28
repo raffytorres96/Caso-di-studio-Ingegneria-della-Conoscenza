@@ -304,6 +304,7 @@ Testing both 2-layer (10, 8 units) and 3-layer (10, 8, 6 units) configurations r
 Computer Science — University of Bari
 Course: Ingegneria della Conoscenza
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/raffaele-gatta-a27bb0178)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raffytorres96/Caso-di-studio-Icon3)
 
 ---
